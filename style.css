@@ -108,3 +108,6 @@ body {
     grid-auto-columns: 100%;
   }
 }
+h6 {
+  color: azure;
+}
