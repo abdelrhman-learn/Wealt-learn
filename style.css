@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(to left top, #88039a, #8B53FF);
+  background: linear-gradient(to left top, #044A9A, #8B53FF);
 }
 .wrapper {
   max-width: 1140px;
@@ -107,7 +107,4 @@ body {
   .wrapper .carousel {
     grid-auto-columns: 100%;
   }
-}
-h6 {
-  color: azure;
 }
